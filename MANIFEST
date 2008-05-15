@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Class-Delegation-Simple.t
+lib/Class/Delegation/Simple.pm
+META.yml                                 Module meta-data (added by MakeMaker)
