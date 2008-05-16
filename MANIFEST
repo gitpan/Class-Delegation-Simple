@@ -4,4 +4,5 @@ MANIFEST
 README
 t/Class-Delegation-Simple.t
 lib/Class/Delegation/Simple.pm
+t/Delegator1.pm
 META.yml                                 Module meta-data (added by MakeMaker)
